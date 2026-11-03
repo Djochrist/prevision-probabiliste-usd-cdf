@@ -1,0 +1,17 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Djochrist KUMA-KUMA UNSIM
+
+The documentation and research reports in this repository are licensed under
+the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt this material for any purpose, including
+commercial purposes, provided that you give appropriate credit, link to the
+license, and indicate whether changes were made. No additional restrictions
+may be applied.
+
+The complete legal terms are included in `CC-BY-4.0-LEGALCODE.txt` and are also
+available at https://creativecommons.org/licenses/by/4.0/legalcode.
+
+Third-party material, including BCC source data not included here, is excluded
+from this license.

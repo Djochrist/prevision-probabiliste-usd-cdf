@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Pour citer ce dépôt, utilisez les métadonnées ci-dessous et ajoutez la version archivée consultée."
+title: "Prévision probabiliste à court terme du cours USD/CDF : scripts de reproduction"
+authors:
+  - family-names: "KUMA-KUMA UNSIM"
+    given-names: "Djochrist"
+version: "0.1.0"
+date-released: "2026-11-03"
+type: software

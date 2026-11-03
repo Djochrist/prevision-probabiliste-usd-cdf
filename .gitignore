@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+analyses/indicateurs_2026-10-27/
+analyses/modeles_probabilistes_2026-10-27/*.csv
+analyses/modeles_probabilistes_2026-10-27/*.json
+analyses/modeles_probabilistes_2026-10-27/*.log
