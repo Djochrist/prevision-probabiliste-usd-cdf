@@ -2,6 +2,10 @@
 
 Ce dépôt rassemble les programmes et le protocole de la comparaison rétrospective exploratoire décrite dans le mémoire. Il permet de reproduire les calculs à partir de l’export BCC exact indiqué ci-dessous. Les résultats ne constituent pas une validation prospective et ne démontrent pas qu’un modèle sera supérieur à l’avenir.
 
+## Démonstration de la plateforme
+
+La démonstration de l’application est accessible à l’adresse suivante : [https://signal-usd-cdf-gamma.vercel.app/](https://signal-usd-cdf-gamma.vercel.app/).
+
 ## Contenu
 
 - `scripts/preparer_indicateurs_bcc.py` : contrôle de la source et préparation des indicateurs.
